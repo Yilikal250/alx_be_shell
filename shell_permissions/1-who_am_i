@@ -1,2 +1,2 @@
 #!/bin/bash
-echo tesho $tesho
+echo tesho$tesho
