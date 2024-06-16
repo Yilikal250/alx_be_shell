@@ -1,1 +1,4 @@
-THIS IS A NEW READ ME
+#!/bin/bash
+
+## 0-iam_betty
+This script switches the current user to the user `betty`.
